@@ -1,10 +1,11 @@
 # Woofer (Frontend)
 
 Woofer is a twitter-like application that allows you to post woofs (tweets), see woof details like comments likes, get notifications, see user profiles, edit profile, like and unlike, comment, and do the basic CRUD operations.
--Check out the deployed site [here](https://woofer-official.herokuapp.com)
 
--If you are looking for the API - Backend repo, [click here](https://github.com/silvertechguy/woofer-api)
--Check out the deployed site [API - Backend](https://woofer-api.herokuapp.com)
+- Check out the deployed site [here](https://woofer-official.herokuapp.com)
+
+- If you are looking for the API - Backend repo, [click here](https://github.com/silvertechguy/woofer-api)
+- Check out the deployed site [API - Backend](https://woofer-api.herokuapp.com)
 
 
 ## Core Packages
@@ -29,7 +30,7 @@ Woofer is a twitter-like application that allows you to post woofs (tweets), see
 
 ### Setup and Install
 
-1. Clone the frontend repo [here](https://github.com/silvertechguy/woofer)
+1. Clone this repo
 2. Run `npm install`
 2. Run `npm start`
 
