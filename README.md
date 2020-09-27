@@ -54,7 +54,7 @@ Woofer is a twitter-like application that allows you to post woofs (tweets), see
 
 ### Woof details
 
-![Woof](screenshots/view_profile.png)
+![Woof](screenshots/woof.png)
 
 ### New Woof
 
