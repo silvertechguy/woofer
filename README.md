@@ -5,7 +5,10 @@ Woofer is a twitter-like application that allows you to post woofs (tweets), see
 - Check out the deployed site [here](https://woofer-official.herokuapp.com)
 
 - If you are looking for the API - Backend repo, [click here](https://github.com/silvertechguy/woofer-api)
+
 - Check out the deployed site [API - Backend](https://woofer-api.herokuapp.com)
+
+- API Endpoints: [here](https://github.com/silvertechguy/woofer-api/blob/master/api-spec.md)
 
 
 ## Core Packages
